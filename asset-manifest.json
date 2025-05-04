@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BuildingsInfo/static/css/main.23fdb9df.css",
-    "main.js": "/BuildingsInfo/static/js/main.c642be43.js",
+    "main.css": "/BuildingsInfo/static/css/main.2e7cf988.css",
+    "main.js": "/BuildingsInfo/static/js/main.53b9d181.js",
     "static/js/453.4a24da4e.chunk.js": "/BuildingsInfo/static/js/453.4a24da4e.chunk.js",
     "static/media/Test.jpeg": "/BuildingsInfo/static/media/Test.4173c223cb4a0ece19aa.jpeg",
     "index.html": "/BuildingsInfo/index.html",
-    "main.23fdb9df.css.map": "/BuildingsInfo/static/css/main.23fdb9df.css.map",
-    "main.c642be43.js.map": "/BuildingsInfo/static/js/main.c642be43.js.map",
+    "main.2e7cf988.css.map": "/BuildingsInfo/static/css/main.2e7cf988.css.map",
+    "main.53b9d181.js.map": "/BuildingsInfo/static/js/main.53b9d181.js.map",
     "453.4a24da4e.chunk.js.map": "/BuildingsInfo/static/js/453.4a24da4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23fdb9df.css",
-    "static/js/main.c642be43.js"
+    "static/css/main.2e7cf988.css",
+    "static/js/main.53b9d181.js"
   ]
 }
